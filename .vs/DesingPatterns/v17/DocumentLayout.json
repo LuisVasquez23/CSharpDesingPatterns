@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34A77072-6FD7-4112-9F4E-A0EBB095921B}|PrototypePattern\\PrototypePattern.csproj|c:\\users\\luis\\documents\\learning\\netcore\\desingpatterns\\prototypepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34A77072-6FD7-4112-9F4E-A0EBB095921B}|PrototypePattern\\PrototypePattern.csproj|solutionrelative:prototypepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCBCC319-2E02-41D3-8EE8-82CE13671A48}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\luis\\documents\\learning\\netcore\\desingpatterns\\builderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCBCC319-2E02-41D3-8EE8-82CE13671A48}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34A77072-6FD7-4112-9F4E-A0EBB095921B}|PrototypePattern\\PrototypePattern.csproj|c:\\users\\luis\\documents\\learning\\netcore\\desingpatterns\\prototypepattern\\ford.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34A77072-6FD7-4112-9F4E-A0EBB095921B}|PrototypePattern\\PrototypePattern.csproj|solutionrelative:prototypepattern\\ford.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34A77072-6FD7-4112-9F4E-A0EBB095921B}|PrototypePattern\\PrototypePattern.csproj|c:\\users\\luis\\documents\\learning\\netcore\\desingpatterns\\prototypepattern\\nano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34A77072-6FD7-4112-9F4E-A0EBB095921B}|PrototypePattern\\PrototypePattern.csproj|solutionrelative:prototypepattern\\nano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34A77072-6FD7-4112-9F4E-A0EBB095921B}|PrototypePattern\\PrototypePattern.csproj|c:\\users\\luis\\documents\\learning\\netcore\\desingpatterns\\prototypepattern\\basiccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34A77072-6FD7-4112-9F4E-A0EBB095921B}|PrototypePattern\\PrototypePattern.csproj|solutionrelative:prototypepattern\\basiccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCBCC319-2E02-41D3-8EE8-82CE13671A48}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\luis\\documents\\learning\\netcore\\desingpatterns\\builderpattern\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCBCC319-2E02-41D3-8EE8-82CE13671A48}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,36 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\PrototypePattern\\Program.cs",
-              "RelativeDocumentMoniker": "PrototypePattern\\Program.cs",
-              "ToolTip": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\PrototypePattern\\Program.cs",
-              "RelativeToolTip": "PrototypePattern\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\BuilderPattern\\Program.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\BuilderPattern\\Program.cs",
+              "RelativeToolTip": "BuilderPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T02:05:23.597Z",
+              "WhenOpened": "2024-07-03T21:05:56.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ford.cs",
-              "DocumentMoniker": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\PrototypePattern\\Ford.cs",
-              "RelativeDocumentMoniker": "PrototypePattern\\Ford.cs",
-              "ToolTip": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\PrototypePattern\\Ford.cs",
-              "RelativeToolTip": "PrototypePattern\\Ford.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\BuilderPattern\\Director.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Director.cs",
+              "ToolTip": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\BuilderPattern\\Director.cs",
+              "RelativeToolTip": "BuilderPattern\\Director.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T02:04:09.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Nano.cs",
-              "DocumentMoniker": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\PrototypePattern\\Nano.cs",
-              "RelativeDocumentMoniker": "PrototypePattern\\Nano.cs",
-              "ToolTip": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\PrototypePattern\\Nano.cs",
-              "RelativeToolTip": "PrototypePattern\\Nano.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T02:01:59.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BasicCar.cs",
-              "DocumentMoniker": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\PrototypePattern\\BasicCar.cs",
-              "RelativeDocumentMoniker": "PrototypePattern\\BasicCar.cs",
-              "ToolTip": "C:\\Users\\luis\\Documents\\Learning\\netCore\\DesingPatterns\\PrototypePattern\\BasicCar.cs",
-              "RelativeToolTip": "PrototypePattern\\BasicCar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T01:59:55.421Z",
+              "WhenOpened": "2024-07-03T21:03:53.573Z",
               "EditorCaption": ""
             }
           ]
